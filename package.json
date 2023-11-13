@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tailwindcss build src/css/tailwind.css -o dist/css/tailwind.min.css",
-    "build": "postcss src/css/tailwind.css -o dist/css/tailwind.min.css"
+    "build": "postcss src/css/tailwind.css -o public/css/tailwind.min.css"
   },
   "keywords": [],
   "author": "",
